@@ -1,2 +1,4 @@
 # Public-Repo
-ÆTHER REPO
+
+ÆTHERGEN PUBLIC REPO
+- Open Source Community
